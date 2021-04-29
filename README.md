@@ -6,7 +6,7 @@ Hide and reveal information on a map. For Codepen's challenge the week of April 
 # How It's Made:
 **Tech used:** HTML, CSS, JavaScript
  
- Everything is built with the trifecta of HTML, CSS, and JavaScript. I referenced some (code from Codepen)[https://codepen.io/rdev-rocks/pen/KXNzvo] to make the lightbox/modal feature that is the essence of the "Hide and Reveal" theme. It was simple enough to add an event listener on all the 'hotspots' that would trigger the lightbox and present more information on that particular area.
+ Everything is built with the trifecta of HTML, CSS, and JavaScript. I referenced some [code from Codepen](https://codepen.io/rdev-rocks/pen/KXNzvo) to make the lightbox/modal feature that is the essence of the "Hide and Reveal" theme. It was simple enough to add an event listener on all the 'hotspots' that would trigger the lightbox and present more information on that particular area.
 
  Placing the 'hotspots' for the map areas took a bit of work, since their positioning is basically based on trial-and-error. I had also looked up the `map` tag in HTML, but it seemed more work than just using a symbol or button indicator.
 
