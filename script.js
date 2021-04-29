@@ -3,13 +3,15 @@ mapBtns.forEach((x) => {
   x.addEventListener("click", showLightbox);
 });
 
+let close = document.querySelector('.close');
+close.addEventListener('click', closeLightbox);
+
 function showLightbox(e) {
   e.preventDefault();
   let modal = document.querySelector(".modal");
   let modalHeading = document.querySelector(".modalHeading");
   console.log(e);
-  console.log(e.target.parentElement.id);
-  modalHeading.textContent = e.target.parentElement.id;
+  modalHeading.textContent = e.target.dataset.name;
   modal.style.display = "block";
 }
 
@@ -19,3 +21,8 @@ document.addEventListener("keydown", function (e) {
     modal.style.display = "none";
   }
 });
+
+function closeLightbox() {
+  let modal = document.querySelector(".modal");
+  modal.style.display = "none";
+}
