@@ -105,6 +105,11 @@ a.mapBtn:hover {
   right: 15%;
 }
 
+#hikingTrail {
+  right: 15%;
+  top: 42%;
+}
+
 #residential {
   top: 42%;
   left: 39%;
@@ -178,4 +183,9 @@ a.mapBtn:hover {
 
 .modalDescription {
   padding: 15px 30px;
+}
+
+.modalImg {
+  width: 100% !important;
+  height: auto !important;
 }
