@@ -75,6 +75,7 @@ a.btn {
   -o-transition-timing-function: ease-out;
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
+  text-decoration: none;
 }
 
 a.mapBtn {
@@ -103,6 +104,7 @@ a.mapBtn {
 a.mapBtn:hover {
   color: #fff;
   background: #282525;
+  text-decoration: none;
 }
 
 #campsite {
