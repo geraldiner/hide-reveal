@@ -1,5 +1,7 @@
 # Hide & Reveal on a Map
 Hide and reveal information on a map. For Codepen's challenge the week of April 26, 2021: Hide &amp; Reveal.
+
+Live demo: https://geraldiner.github.io/hide-reveal/
  
 ## How It's Made
 **Tech used:** HTML, CSS, JavaScript
