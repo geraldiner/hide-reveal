@@ -32,6 +32,7 @@ I think this was great practice in linking HTML, CSS, and JavaScript. In particu
 
 Each of the hotspots has a `data-name` attribute that gets used when that particular hotspot is clicked. The `data-name` is used to pull the appropriate information from the list of areas in `mapAreas` so it can be used in the DOM.
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -43,3 +44,15 @@ Check out other stuff I've worked on:
 **Snapchat Clone:** https://github.com/geraldiner/snapchat-clone
 
 **K.K. Radio:** https://github.com/geraldiner/kk-radio
+
+## Let's Connect!
+
+Let's talk about self-taught programming, experience design, (computer science) education, and/or Animal Crossing:
+
+**Twitter**: [@GeraldineDesu](https://twitter.com/geraldinedesu)
+
+**LinkedIn**: [in/GeraldineR](https://linkedin.com/in/geraldiner)
+
+**Email**: hello [at] geraldiner [dot] com
+
+I'm also looking for new Full-Stack or Front-End opportunities, so please reach out if you'd like to work together!
