@@ -31,19 +31,6 @@ In the example code for the lightbox, there is a slideshow gallery as part of th
 I think this was great practice in linking HTML, CSS, and JavaScript. In particular, adding event listeners and using a data attribute on each of the hotspots to make sure the DOM displayed the correct information in the lightbox. I'd never thought to use it before, but I remember using it in some JavaScript challenges and while learning React that data can be passed through tags with `data-*`.
 
 Each of the hotspots has a `data-name` attribute that gets used when that particular hotspot is clicked. The `data-name` is used to pull the appropriate information from the list of areas in `mapAreas` so it can be used in the DOM.
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 Other Projects
 
 Check out other stuff I've worked on:
